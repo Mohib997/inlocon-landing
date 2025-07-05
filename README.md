@@ -1,6 +1,10 @@
 # INLOCON Landing Page
 
-A responsive landing page for INLOCON - Informationslogistik & Consulting.
+A modern, responsive landing page for INLOCON – Informationslogistik & Consulting.
+
+## Screenshot
+
+![Landing Page Screenshot](images/screenshot.png)
 
 ## Features
 
@@ -13,7 +17,7 @@ A responsive landing page for INLOCON - Informationslogistik & Consulting.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/inlocon-landing.git
+   git clone https://github.com/Mohib997/inlocon-landing.git
    cd inlocon-landing
    ```
 
@@ -27,10 +31,6 @@ A responsive landing page for INLOCON - Informationslogistik & Consulting.
      python -m http.server
      ```
    - Then visit [http://localhost:8000](http://localhost:8000) in your browser.
-
-## Screenshots
-
-_Add screenshots here if you want._
 
 ## License
 
